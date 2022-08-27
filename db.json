@@ -1,0 +1,80 @@
+{
+  "patientRelation": [
+    {
+      "text": "Self",
+      "value": "Self"
+    },
+    {
+      "text": "Some one else",
+      "value": "Some one else"
+    }
+  ],
+  "appointmentType": [
+    {
+      "text": "Book an appointment",
+      "value": "Book an appointment"
+    },
+    {
+      "text": "Register patient",
+      "value": "Register patient"
+    }
+  ],
+  "locations": [
+    {
+      "text": "Dallas",
+      "value": "Dallas"
+    },
+    {
+      "text": "Austin Texas",
+      "value": "Austin Texas"
+    }
+  ],
+  "doctorsList": [
+    {
+      "text": "Mike",
+      "value": "Mike"
+    },
+    {
+      "text": "John",
+      "value": "John"
+    }
+  ],
+  "healthSpecialization": [
+    {
+      "text": "COVID19 Immunization ",
+      "value": "COVID19 Immunization "
+    },
+    {
+      "text": "Child Immunization",
+      "value": "Child Immunization"
+    },
+    {
+      "text": "Dental Clinic",
+      "value": "Dental Clinic"
+    }
+  ],
+  "chooseSlots": [
+    {
+      "text": "8.00 AM ",
+      "value": "8.00 AM"
+    },
+    {
+      "text": "8.30 AM",
+      "value": "8.30 AM"
+    },
+    {
+      "text": "9.00 AM",
+      "value": "9.00 AM"
+    }
+  ],
+  "dateOfAppointment": [
+    {
+      "text": "Tomorrow ",
+      "value": "Tomorrow"
+    },
+    {
+      "text": "Today",
+      "value": "Today"
+    }
+  ]
+}
